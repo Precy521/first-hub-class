@@ -1,2 +1,2 @@
 # First Hub Project
-Hi, my name is Nhatisi. I am a second year student studying Mobile Computing, currently learning to build morden web and mobile application using tools like react. I am passionate about developing real world projects,improving my codinng skills, and growing as future software developer.
+## Hi, my name is Nhatisi. I am a second year student studying Mobile Computing, currently learning to build morden web and mobile application using tools like react. I am passionate about developing real world projects,improving my codinng skills, and growing as future software developer.
