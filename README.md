@@ -11,4 +11,4 @@
 ## Career Goals
 <br>l aim to become a skilled software developer with a focus on mobile and web techhnologies. ln the long term, l want to work on real-world projects that improve how people live and interact with technology. l'm also open to roles in system analysis, UI/UX, or tech support as l grow in the field.
 
-**Let's grow louder, code bolder, and shake the future with innovation that leaves a mark*
+*Let's grow louder, code bolder, and shake the future with innovation that leaves a mark*
